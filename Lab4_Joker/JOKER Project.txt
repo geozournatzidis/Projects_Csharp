@@ -1,0 +1,14 @@
+﻿1st Stage:
+Ask from user to enter 5 numbers from 1 - 45.
+Ask from user to enter 1 number from 1 - 20.
+Numbers MUST be Unique.
+
+Next there should be take place a Draw.
+Draw 5 Random Numbers from 1 - 45.
+Draw 1 Number from 1 - 20.
+Draw Numbers MUST be Unique.
+
+Result should be presented! 
+Result : Draw + Selected User Numbers
+
+This is not the JOKER Project...

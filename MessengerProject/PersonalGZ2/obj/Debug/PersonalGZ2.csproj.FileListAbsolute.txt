@@ -1,0 +1,14 @@
+C:\Users\George\source\repos\PersonalGZ2\PersonalGZ2\bin\Debug\PersonalGZ2.exe.config
+C:\Users\George\source\repos\PersonalGZ2\PersonalGZ2\bin\Debug\PersonalGZ2.exe
+C:\Users\George\source\repos\PersonalGZ2\PersonalGZ2\bin\Debug\PersonalGZ2.pdb
+C:\Users\George\source\repos\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.csprojAssemblyReference.cache
+C:\Users\George\source\repos\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.exe
+C:\Users\George\source\repos\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.pdb
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\PersonalGZ2\PersonalGZ2\bin\Debug\PersonalGZ2.exe.config
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\PersonalGZ2\PersonalGZ2\bin\Debug\PersonalGZ2.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\PersonalGZ2\PersonalGZ2\bin\Debug\PersonalGZ2.pdb
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\PersonalGZ2\PersonalGZ2\obj\Debug\PersonalGZ2.pdb

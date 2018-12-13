@@ -1,0 +1,21 @@
+C:\Users\George\Desktop\Bootcamp5 Projects\Classroom\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.exe.config
+C:\Users\George\Desktop\Bootcamp5 Projects\Classroom\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\Classroom\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.pdb
+C:\Users\George\Desktop\Bootcamp5 Projects\Classroom\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\Classroom\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\Classroom\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\Classroom\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.pdb
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.exe.config
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.pdb
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.exe
+C:\Users\George\Desktop\Bootcamp5 Projects\LABS\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.pdb
+C:\Users\George\Desktop\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.exe.config
+C:\Users\George\Desktop\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.exe
+C:\Users\George\Desktop\Lab6.HUmanity\Lab6.HUmanity\bin\Debug\Lab6.HUmanity.pdb
+C:\Users\George\Desktop\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.csprojAssemblyReference.cache
+C:\Users\George\Desktop\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.exe
+C:\Users\George\Desktop\Lab6.HUmanity\Lab6.HUmanity\obj\Debug\Lab6.HUmanity.pdb

@@ -5,7 +5,7 @@ Numbers MUST be Unique.
 
 Next there should be take place a Draw.
 Draw 5 Random Numbers from 1 - 45.
-Draw 1 Number from 1 - 20.
+Draw 1 Number from 1 - 20.  
 Draw Numbers MUST be Unique.
 
 Result should be presented! 
